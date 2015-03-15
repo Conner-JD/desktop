@@ -1,0 +1,32 @@
+Throughout the semester, we will complete a series of project deliverables.
+To keep things organized, a directory has been created for each assignment.
+
+details - GP4: Detailed Design
+present - GP6: Final Presentation
+queries - GP3: Example Queries
+schema  - GP2: Schema Design
+testing - Directory for svn lab
+webapp  - GP5: Working Prototype
+
+GROUP NAME
+
+VirginiaLITE ("valite")
+
+
+DESCRIPTION
+
+Our application enables its users to manipulate data to view
+trends in educational data. Furthermore, users are provided with tools
+to compare different educational institutions within Virginia.
+
+
+STEPS TO CREATE DATABASE
+
+1. Run create.sql to create tables without constraints.
+
+2. go into /ExpenditureInfo and use the .csv files to fill the non-vlds tables in pg admin
+
+3. Run copy.sh on db.cs.jmu.edu to copy data from VLDS.
+
+4. Run alter.sql to add constraints and analyze tables.
+

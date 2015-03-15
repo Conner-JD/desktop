@@ -1,0 +1,377 @@
+{"dropout_rate": "17", "div_name": "'Accomack'", "per_capita": "146.09", "name": "'Arcadia High'"}
+{"dropout_rate": "29", "div_name": "'Accomack'", "per_capita": "146.09", "name": "'Nandua High'"}
+{"dropout_rate": "21", "div_name": "'Albemarle'", "per_capita": "141.09", "name": "'Albemarle High'"}
+{"dropout_rate": "20", "div_name": "'Albemarle'", "per_capita": "141.09", "name": "'Monticello High'"}
+{"dropout_rate": "91", "div_name": "'Alexandria'", "per_capita": "118.18", "name": "'T. C. Williams High'"}
+{"dropout_rate": "91", "div_name": "'Alexandria'", "per_capita": "118.18", "name": "'T.C. Williams High'"}
+{"dropout_rate": "15", "div_name": "'Alleghany'", "per_capita": "204", "name": "'Alleghany High'"}
+{"dropout_rate": "15", "div_name": "'Alleghany'", "per_capita": "204", "name": "'Alleghany High School'"}
+{"dropout_rate": "25", "div_name": "'Amherst'", "per_capita": "155.85", "name": "'Amherst County High'"}
+{"dropout_rate": "17", "div_name": "'Appomattox'", "per_capita": "153.52", "name": "'Appomattox County High'"}
+{"dropout_rate": "111", "div_name": "'Arlington'", "per_capita": "147.26", "name": "'Wakefield High'"}
+{"dropout_rate": "68", "div_name": "'Arlington'", "per_capita": "147.26", "name": "'Washington Lee High'"}
+{"dropout_rate": "68", "div_name": "'Arlington'", "per_capita": "147.26", "name": "'Washington-Lee High'"}
+{"dropout_rate": "25", "div_name": "'Arlington'", "per_capita": "147.26", "name": "'Yorktown High'"}
+{"dropout_rate": "11", "div_name": "'Augusta'", "per_capita": "130.51", "name": "'Buffalo Gap High'"}
+{"dropout_rate": "15", "div_name": "'Augusta'", "per_capita": "130.51", "name": "'Fort Defiance High'"}
+{"dropout_rate": "15", "div_name": "'Augusta'", "per_capita": "130.51", "name": "'Ft. Defiance High'"}
+{"dropout_rate": "10", "div_name": "'Augusta'", "per_capita": "130.51", "name": "'Stuarts Draft High'"}
+{"dropout_rate": "10", "div_name": "'Augusta'", "per_capita": "130.51", "name": "'Wilson Memorial High'"}
+{"dropout_rate": "13", "div_name": "'Bedford'", "per_capita": "146.83", "name": "'Jefferson Forest High'"}
+{"dropout_rate": "26", "div_name": "'Bedford'", "per_capita": "146.83", "name": "'Liberty High'"}
+{"dropout_rate": "27", "div_name": "'Bedford'", "per_capita": "146.83", "name": "'Staunton River High'"}
+{"dropout_rate": "17", "div_name": "'Bristol'", "per_capita": "110.94", "name": "'Virginia High'"}
+{"dropout_rate": "37", "div_name": "'Brunswick'", "per_capita": "148.1", "name": "'Brunswick High'"}
+{"dropout_rate": "19", "div_name": "'Buckingham'", "per_capita": "113.36", "name": "'Buckingham County High'"}
+{"dropout_rate": "16", "div_name": "'Campbell'", "per_capita": "144.65", "name": "'Brookville High'"}
+{"dropout_rate": "26", "div_name": "'Campbell'", "per_capita": "144.65", "name": "'Rustburg High'"}
+{"dropout_rate": "36", "div_name": "'Caroline'", "per_capita": "118.7", "name": "'Caroline High'"}
+{"dropout_rate": "24", "div_name": "'Carroll'", "per_capita": "129.9", "name": "'Carroll County High'"}
+{"dropout_rate": "24", "div_name": "'Carroll'", "per_capita": "129.9", "name": "'Carroll County High School'"}
+{"dropout_rate": "55", "div_name": "'Charlotte'", "per_capita": "157.17", "name": "'Charlottesville High'"}
+{"dropout_rate": "55", "div_name": "'Charlottesville'", "per_capita": "245.28", "name": "'Charlottesville High'"}
+{"dropout_rate": "32", "div_name": "'Chesapeake'", "per_capita": "184.86", "name": "'Deep Creek High'"}
+{"dropout_rate": "14", "div_name": "'Chesapeake'", "per_capita": "184.86", "name": "'Grassfield High'"}
+{"dropout_rate": "14", "div_name": "'Chesapeake'", "per_capita": "184.86", "name": "'Grassfield High School'"}
+{"dropout_rate": "19", "div_name": "'Chesapeake'", "per_capita": "184.86", "name": "'Great Bridge High'"}
+{"dropout_rate": "41", "div_name": "'Chesapeake'", "per_capita": "184.86", "name": "'Indian River High'"}
+{"dropout_rate": "78", "div_name": "'Chesapeake'", "per_capita": "184.86", "name": "'Oscar F. Smith High'"}
+{"dropout_rate": "30", "div_name": "'Chesapeake'", "per_capita": "184.86", "name": "'Western Branch High'"}
+{"dropout_rate": "75", "div_name": "'Chesterfield'", "per_capita": "162.54", "name": "'Chesterfield Community High'"}
+{"dropout_rate": "24", "div_name": "'Chesterfield'", "per_capita": "162.54", "name": "'Clover Hill High'"}
+{"dropout_rate": "26", "div_name": "'Chesterfield'", "per_capita": "162.54", "name": "'James River High'"}
+{"dropout_rate": "53", "div_name": "'Chesterfield'", "per_capita": "162.54", "name": "'Lloyd C. Bird High'"}
+{"dropout_rate": "38", "div_name": "'Chesterfield'", "per_capita": "162.54", "name": "'Manchester High'"}
+{"dropout_rate": "28", "div_name": "'Chesterfield'", "per_capita": "162.54", "name": "'Matoaca High'"}
+{"dropout_rate": "67", "div_name": "'Chesterfield'", "per_capita": "162.54", "name": "'Meadowbrook High'"}
+{"dropout_rate": "21", "div_name": "'Chesterfield'", "per_capita": "162.54", "name": "'Monacan High'"}
+{"dropout_rate": "40", "div_name": "'Chesterfield'", "per_capita": "162.54", "name": "'Thomas Dale High'"}
+{"dropout_rate": "34", "div_name": "'Culpeper'", "per_capita": "149.35", "name": "'Culpeper County High'"}
+{"dropout_rate": "22", "div_name": "'Culpeper'", "per_capita": "149.35", "name": "'Eastern View High'"}
+{"dropout_rate": "22", "div_name": "'Culpeper'", "per_capita": "149.35", "name": "'Eastern View High School'"}
+{"dropout_rate": "45", "div_name": "'Danville'", "per_capita": "222.77", "name": "'George Washington High'"}
+{"dropout_rate": "18", "div_name": "'Danville'", "per_capita": "222.77", "name": "'JM Langston Focus School'"}
+{"dropout_rate": "18", "div_name": "'Danville'", "per_capita": "222.77", "name": "'Langston Focus Center'"}
+{"dropout_rate": "18", "div_name": "'Danville'", "per_capita": "222.77", "name": "'Langston Focus School'"}
+{"dropout_rate": "29", "div_name": "'Dinwiddie'", "per_capita": "190.34", "name": "'Dinwiddie County High'"}
+{"dropout_rate": "29", "div_name": "'Dinwiddie'", "per_capita": "190.34", "name": "'Dinwiddie Senior High'"}
+{"dropout_rate": "16", "div_name": "'Essex'", "per_capita": "97.68", "name": "'Essex High'"}
+{"dropout_rate": "79", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Annandale High'"}
+{"dropout_rate": "79", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Annandale High'"}
+{"dropout_rate": "79", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Annandale High School'"}
+{"dropout_rate": "79", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Annandale High School'"}
+{"dropout_rate": "118", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Bryant Alternative High'"}
+{"dropout_rate": "118", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Bryant Alternative High'"}
+{"dropout_rate": "118", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Bryant Alternative High School'"}
+{"dropout_rate": "118", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Bryant Alternative High School'"}
+{"dropout_rate": "16", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Centreville High'"}
+{"dropout_rate": "16", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Centreville High'"}
+{"dropout_rate": "16", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Centreville High School'"}
+{"dropout_rate": "16", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Centreville High School'"}
+{"dropout_rate": "21", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Chantilly High'"}
+{"dropout_rate": "21", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Chantilly High'"}
+{"dropout_rate": "21", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Chantilly High School'"}
+{"dropout_rate": "21", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Chantilly High School'"}
+{"dropout_rate": "13", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'DJJ or Fairfax/Falls Church Community SVCS BD Schools'"}
+{"dropout_rate": "13", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'DJJ or Fairfax/Falls Church Community SVCS BD Schools'"}
+{"dropout_rate": "20", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Edison High'"}
+{"dropout_rate": "20", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Edison High'"}
+{"dropout_rate": "21", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Fairfax High'"}
+{"dropout_rate": "21", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Fairfax High'"}
+{"dropout_rate": "21", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Fairfax High School'"}
+{"dropout_rate": "21", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Fairfax High School'"}
+{"dropout_rate": "46", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Falls Church High'"}
+{"dropout_rate": "46", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Falls Church High'"}
+{"dropout_rate": "46", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Falls Church High School'"}
+{"dropout_rate": "46", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Falls Church High School'"}
+{"dropout_rate": "14", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'George C. Marshall High School'"}
+{"dropout_rate": "14", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'George C. Marshall High School'"}
+{"dropout_rate": "31", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Hayfield Secondary'"}
+{"dropout_rate": "31", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Hayfield Secondary'"}
+{"dropout_rate": "31", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Hayfield Secondary School'"}
+{"dropout_rate": "31", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Hayfield Secondary School'"}
+{"dropout_rate": "33", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Herndon High'"}
+{"dropout_rate": "33", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Herndon High'"}
+{"dropout_rate": "33", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Herndon High School'"}
+{"dropout_rate": "33", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Herndon High School'"}
+{"dropout_rate": "15", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'James W. Robinson Jr. Secondary School'"}
+{"dropout_rate": "15", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'James W. Robinson Jr. Secondary School'"}
+{"dropout_rate": "69", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'J.E.B. Stuart High School'"}
+{"dropout_rate": "69", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'J.E.B. Stuart High School'"}
+{"dropout_rate": "20", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Lake Braddock Secondary'"}
+{"dropout_rate": "20", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Lake Braddock Secondary'"}
+{"dropout_rate": "20", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Lake Braddock Secondary School'"}
+{"dropout_rate": "20", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Lake Braddock Secondary School'"}
+{"dropout_rate": "43", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Lee High'"}
+{"dropout_rate": "43", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Lee High'"}
+{"dropout_rate": "14", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Marshall High'"}
+{"dropout_rate": "14", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Marshall High'"}
+{"dropout_rate": "19", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Mclean High'"}
+{"dropout_rate": "19", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Mclean High'"}
+{"dropout_rate": "19", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'McLean High'"}
+{"dropout_rate": "19", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'McLean High'"}
+{"dropout_rate": "19", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'McLean High School'"}
+{"dropout_rate": "19", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'McLean High School'"}
+{"dropout_rate": "49", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Mountain View Alternative High'"}
+{"dropout_rate": "49", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Mountain View Alternative High'"}
+{"dropout_rate": "49", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Mountain View Alternative High School'"}
+{"dropout_rate": "49", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Mountain View Alternative High School'"}
+{"dropout_rate": "49", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Mountain View School'"}
+{"dropout_rate": "49", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Mountain View School'"}
+{"dropout_rate": "39", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Mount Vernon High'"}
+{"dropout_rate": "39", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Mount Vernon High'"}
+{"dropout_rate": "39", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Mount Vernon High School'"}
+{"dropout_rate": "39", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Mount Vernon High School'"}
+{"dropout_rate": "43", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Robert E. Lee High School'"}
+{"dropout_rate": "43", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Robert E. Lee High School'"}
+{"dropout_rate": "15", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Robinson Secondary'"}
+{"dropout_rate": "15", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Robinson Secondary'"}
+{"dropout_rate": "17", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'South County Secondary'"}
+{"dropout_rate": "17", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'South County Secondary'"}
+{"dropout_rate": "17", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'South County Secondary School'"}
+{"dropout_rate": "17", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'South County Secondary School'"}
+{"dropout_rate": "17", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'South Lakes High'"}
+{"dropout_rate": "17", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'South Lakes High'"}
+{"dropout_rate": "17", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'South Lakes High School'"}
+{"dropout_rate": "17", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'South Lakes High School'"}
+{"dropout_rate": "69", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Stuart High'"}
+{"dropout_rate": "69", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Stuart High'"}
+{"dropout_rate": "20", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Thomas A. Edison High School'"}
+{"dropout_rate": "20", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Thomas A. Edison High School'"}
+{"dropout_rate": "26", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Westfield High'"}
+{"dropout_rate": "26", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Westfield High'"}
+{"dropout_rate": "26", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Westfield High School'"}
+{"dropout_rate": "26", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Westfield High School'"}
+{"dropout_rate": "62", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'West Potomac High'"}
+{"dropout_rate": "62", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'West Potomac High'"}
+{"dropout_rate": "62", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'West Potomac High School'"}
+{"dropout_rate": "62", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'West Potomac High School'"}
+{"dropout_rate": "15", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'West Springfield High'"}
+{"dropout_rate": "15", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'West Springfield High'"}
+{"dropout_rate": "15", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'West Springfield High School'"}
+{"dropout_rate": "15", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'West Springfield High School'"}
+{"dropout_rate": "227", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Woodson Adult High'"}
+{"dropout_rate": "227", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Woodson Adult High'"}
+{"dropout_rate": "227", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Woodson Adult High School'"}
+{"dropout_rate": "227", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Woodson Adult High School'"}
+{"dropout_rate": "19", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'Woodson High'"}
+{"dropout_rate": "19", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'Woodson High'"}
+{"dropout_rate": "19", "div_name": "'Fairfax'", "per_capita": "151.95", "name": "'W.T. Woodson High School'"}
+{"dropout_rate": "19", "div_name": "'Fairfax'", "per_capita": "168.38", "name": "'W.T. Woodson High School'"}
+{"dropout_rate": "17", "div_name": "'Fauquier'", "per_capita": "174.51", "name": "'Fauquier High'"}
+{"dropout_rate": "13", "div_name": "'Fauquier'", "per_capita": "174.51", "name": "'Liberty High'"}
+{"dropout_rate": "16", "div_name": "'Floyd'", "per_capita": "137.91", "name": "'Floyd County High'"}
+{"dropout_rate": "19", "div_name": "'Fluvanna'", "per_capita": "130.25", "name": "'Fluvanna County High'"}
+{"dropout_rate": "55", "div_name": "'Franklin'", "per_capita": "130.12", "name": "'Franklin County High'"}
+{"dropout_rate": "55", "div_name": "'Franklin'", "per_capita": "160.16", "name": "'Franklin County High'"}
+{"dropout_rate": "11", "div_name": "'Franklin'", "per_capita": "130.12", "name": "'Franklin High'"}
+{"dropout_rate": "11", "div_name": "'Franklin'", "per_capita": "160.16", "name": "'Franklin High'"}
+{"dropout_rate": "14", "div_name": "'Frederick'", "per_capita": "154.9", "name": "'James Monroe High'"}
+{"dropout_rate": "31", "div_name": "'Frederick'", "per_capita": "154.9", "name": "'James Wood High'"}
+{"dropout_rate": "29", "div_name": "'Frederick'", "per_capita": "154.9", "name": "'Millbrook High'"}
+{"dropout_rate": "36", "div_name": "'Frederick'", "per_capita": "154.9", "name": "'Sherando High'"}
+{"dropout_rate": "14", "div_name": "'Fredericksburg'", "per_capita": "150.96", "name": "'James Monroe High'"}
+{"dropout_rate": "21", "div_name": "'Giles'", "per_capita": "132.49", "name": "'Giles High'"}
+{"dropout_rate": "10", "div_name": "'Giles'", "per_capita": "132.49", "name": "'Narrows High'"}
+{"dropout_rate": "45", "div_name": "'Gloucester'", "per_capita": "168.7", "name": "'Gloucester High'"}
+{"dropout_rate": "13", "div_name": "'Goochland'", "per_capita": "103.93", "name": "'Goochland High'"}
+{"dropout_rate": "16", "div_name": "'Grayson'", "per_capita": "191.13", "name": "'Grayson County High'"}
+{"dropout_rate": "26", "div_name": "'Greene'", "per_capita": "119.44", "name": "'William Monroe High'"}
+{"dropout_rate": "46", "div_name": "'Greensville'", "per_capita": "115.73", "name": "'Greensville County High'"}
+{"dropout_rate": "47", "div_name": "'Halifax'", "per_capita": "163.91", "name": "'Halifax County High'"}
+{"dropout_rate": "23", "div_name": "'Hampton'", "per_capita": "157.2", "name": "'Bethel High'"}
+{"dropout_rate": "32", "div_name": "'Hampton'", "per_capita": "157.2", "name": "'Hampton High'"}
+{"dropout_rate": "29", "div_name": "'Hampton'", "per_capita": "157.2", "name": "'Kecoughtan High'"}
+{"dropout_rate": "26", "div_name": "'Hampton'", "per_capita": "157.2", "name": "'Phoebus High'"}
+{"dropout_rate": "14", "div_name": "'Hanover'", "per_capita": "145.86", "name": "'Lee Davis High'"}
+{"dropout_rate": "17", "div_name": "'Hanover'", "per_capita": "145.86", "name": "'Patrick Henry High'"}
+{"dropout_rate": "36", "div_name": "'Harrisonburg'", "per_capita": "101.94", "name": "'Harrisonburg High'"}
+{"dropout_rate": "39", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'Douglas S. Freeman High'"}
+{"dropout_rate": "39", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'Freeman High'"}
+{"dropout_rate": "14", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'Godwin High'"}
+{"dropout_rate": "96", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'Henrico High'"}
+{"dropout_rate": "77", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'Hermitage High'"}
+{"dropout_rate": "88", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'Highland Springs High'"}
+{"dropout_rate": "67", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'John Randolphtucker High'"}
+{"dropout_rate": "67", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'John Randolph Tucker High'"}
+{"dropout_rate": "67", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'John RandolphTucker High'"}
+{"dropout_rate": "14", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'Mills E. Godwin High'"}
+{"dropout_rate": "67", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'Tucker High'"}
+{"dropout_rate": "52", "div_name": "'Henrico'", "per_capita": "136.01", "name": "'Varina High'"}
+{"dropout_rate": "19", "div_name": "'Henry'", "per_capita": "149.7", "name": "'Bassett High'"}
+{"dropout_rate": "25", "div_name": "'Henry'", "per_capita": "149.7", "name": "'Magna Vista High'"}
+{"dropout_rate": "42", "div_name": "'Hopewell'", "per_capita": "176.86", "name": "'Hopewell High'"}
+{"dropout_rate": "31", "div_name": "'Isle of Wight'", "per_capita": "158.99", "name": "'Smithfield High'"}
+{"dropout_rate": "12", "div_name": "'Isle of Wight'", "per_capita": "158.99", "name": "'Windsor High'"}
+{"dropout_rate": "13", "div_name": "'King and Queen'", "per_capita": "134.24", "name": "'Central High'"}
+{"dropout_rate": "23", "div_name": "'King George'", "per_capita": "149.93", "name": "'King George High'"}
+{"dropout_rate": "11", "div_name": "'Lee'", "per_capita": "146.15", "name": "'Lee High'"}
+{"dropout_rate": "16", "div_name": "'Loudoun'", "per_capita": "196.25", "name": "'Dominion High'"}
+{"dropout_rate": "10", "div_name": "'Loudoun'", "per_capita": "196.25", "name": "'Heritage High'"}
+{"dropout_rate": "26", "div_name": "'Loudoun'", "per_capita": "196.25", "name": "'Park View High'"}
+{"dropout_rate": "10", "div_name": "'Loudoun'", "per_capita": "196.25", "name": "'Stone Bridge High'"}
+{"dropout_rate": "10", "div_name": "'Loudoun'", "per_capita": "196.25", "name": "'Tuscarora High'"}
+{"dropout_rate": "27", "div_name": "'Louisa'", "per_capita": "117.57", "name": "'Louisa County High'"}
+{"dropout_rate": "35", "div_name": "'Lynchburg'", "per_capita": "126.48", "name": "'E. C. Glass High'"}
+{"dropout_rate": "35", "div_name": "'Lynchburg'", "per_capita": "126.48", "name": "'E.C. Glass High'"}
+{"dropout_rate": "35", "div_name": "'Lynchburg'", "per_capita": "126.48", "name": "'Heritage High'"}
+{"dropout_rate": "12", "div_name": "'Madison'", "per_capita": "158.78", "name": "'Madison County High'"}
+{"dropout_rate": "65", "div_name": "'Manassas'", "per_capita": "189.72", "name": "'Osbourn High'"}
+{"dropout_rate": "19", "div_name": "'Martinsville'", "per_capita": "168.45", "name": "'Martinsville High'"}
+{"dropout_rate": "19", "div_name": "'Martinsville'", "per_capita": "168.45", "name": "'Martinsville High School'"}
+{"dropout_rate": "12", "div_name": "'Mecklenburg'", "per_capita": "106.06", "name": "'Park View High'"}
+{"dropout_rate": "13", "div_name": "'Montgomery'", "per_capita": "142.33", "name": "'Auburn High'"}
+{"dropout_rate": "14", "div_name": "'Montgomery'", "per_capita": "142.33", "name": "'Blacksburg High'"}
+{"dropout_rate": "29", "div_name": "'Montgomery'", "per_capita": "142.33", "name": "'Christiansburg High'"}
+{"dropout_rate": "10", "div_name": "'Montgomery'", "per_capita": "142.33", "name": "'Eastern Montgomery High'"}
+{"dropout_rate": "13", "div_name": "'New Kent'", "per_capita": "144.46", "name": "'New Kent County High'"}
+{"dropout_rate": "13", "div_name": "'New Kent'", "per_capita": "144.46", "name": "'New Kent High'"}
+{"dropout_rate": "10", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'Crittenden Middle'"}
+{"dropout_rate": "64", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'Denbigh High'"}
+{"dropout_rate": "10", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'Ethel M. Gildersleeve Middle'"}
+{"dropout_rate": "57", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'Heritage High'"}
+{"dropout_rate": "13", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'Homer L. Hines Middle'"}
+{"dropout_rate": "12", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'Huntington Middle'"}
+{"dropout_rate": "17", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'J. M. Dozier Middle'"}
+{"dropout_rate": "17", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'J.M. Dozier Middle'"}
+{"dropout_rate": "14", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'Mary Passage Middle'"}
+{"dropout_rate": "69", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'Menchville High'"}
+{"dropout_rate": "123", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'Warwick High'"}
+{"dropout_rate": "33", "div_name": "'Newport News'", "per_capita": "173.36", "name": "'Woodside High'"}
+{"dropout_rate": "85", "div_name": "'Norfolk'", "per_capita": "145.08", "name": "'B. T. Washington High'"}
+{"dropout_rate": "85", "div_name": "'Norfolk'", "per_capita": "145.08", "name": "'B.T. Washington High'"}
+{"dropout_rate": "168", "div_name": "'Norfolk'", "per_capita": "145.08", "name": "'Granby High'"}
+{"dropout_rate": "55", "div_name": "'Norfolk'", "per_capita": "145.08", "name": "'Lake Taylor High'"}
+{"dropout_rate": "55", "div_name": "'Norfolk'", "per_capita": "145.08", "name": "'Lake Taylor High School'"}
+{"dropout_rate": "38", "div_name": "'Norfolk'", "per_capita": "145.08", "name": "'Matthew Fontaine Maury High'"}
+{"dropout_rate": "38", "div_name": "'Norfolk'", "per_capita": "145.08", "name": "'Maury High'"}
+{"dropout_rate": "43", "div_name": "'Norfolk'", "per_capita": "145.08", "name": "'Norview High'"}
+{"dropout_rate": "27", "div_name": "'Northampton'", "per_capita": "188.37", "name": "'Northampton High'"}
+{"dropout_rate": "13", "div_name": "'Northumberland'", "per_capita": "117.98", "name": "'Northumberland High'"}
+{"dropout_rate": "24", "div_name": "'Nottoway'", "per_capita": "144.78", "name": "'Nottoway High'"}
+{"dropout_rate": "12", "div_name": "'Orange'", "per_capita": "133.68", "name": "'Orange Co. High'"}
+{"dropout_rate": "12", "div_name": "'Orange'", "per_capita": "133.68", "name": "'Orange County High'"}
+{"dropout_rate": "10", "div_name": "'Page'", "per_capita": "147.94", "name": "'Luray High'"}
+{"dropout_rate": "10", "div_name": "'Page'", "per_capita": "147.94", "name": "'Luray High School'"}
+{"dropout_rate": "40", "div_name": "'Petersburg'", "per_capita": "163.23", "name": "'Petersburg High'"}
+{"dropout_rate": "35", "div_name": "'Petersburg'", "per_capita": "163.23", "name": "'Vernon Johns Junior High'"}
+{"dropout_rate": "17", "div_name": "'Pittsylvania'", "per_capita": "108.79", "name": "'Chatham High'"}
+{"dropout_rate": "20", "div_name": "'Pittsylvania'", "per_capita": "108.79", "name": "'Dan River High'"}
+{"dropout_rate": "20", "div_name": "'Pittsylvania'", "per_capita": "108.79", "name": "'Dan River Senior High'"}
+{"dropout_rate": "20", "div_name": "'Pittsylvania'", "per_capita": "108.79", "name": "'Dan River Sr. High'"}
+{"dropout_rate": "42", "div_name": "'Pittsylvania'", "per_capita": "108.79", "name": "'Gretna High'"}
+{"dropout_rate": "42", "div_name": "'Pittsylvania'", "per_capita": "108.79", "name": "'Gretna Senior High'"}
+{"dropout_rate": "42", "div_name": "'Pittsylvania'", "per_capita": "108.79", "name": "'Gretna Sr. High'"}
+{"dropout_rate": "40", "div_name": "'Pittsylvania'", "per_capita": "108.79", "name": "'Tunstall High'"}
+{"dropout_rate": "40", "div_name": "'Pittsylvania'", "per_capita": "108.79", "name": "'Tunstall Senior High'"}
+{"dropout_rate": "40", "div_name": "'Pittsylvania'", "per_capita": "108.79", "name": "'Tunstall Sr. High'"}
+{"dropout_rate": "41", "div_name": "'Portsmouth'", "per_capita": "157.77", "name": "'Churchland High'"}
+{"dropout_rate": "93", "div_name": "'Portsmouth'", "per_capita": "157.77", "name": "'I. C. Norcom High'"}
+{"dropout_rate": "93", "div_name": "'Portsmouth'", "per_capita": "157.77", "name": "'I.C. Norcom High'"}
+{"dropout_rate": "71", "div_name": "'Portsmouth'", "per_capita": "157.77", "name": "'Woodrow Wilson High'"}
+{"dropout_rate": "20", "div_name": "'Powhatan'", "per_capita": "143.6", "name": "'Powhatan High'"}
+{"dropout_rate": "44", "div_name": "'Prince Edward'", "per_capita": "85.26", "name": "'Prince Edward County High'"}
+{"dropout_rate": "50", "div_name": "'Prince George'", "per_capita": "150.15", "name": "'Prince George High'"}
+{"dropout_rate": "34", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Battlefield High'"}
+{"dropout_rate": "34", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Battlefield High School'"}
+{"dropout_rate": "27", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Brentsville District High'"}
+{"dropout_rate": "30", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'C. D. Hylton High'"}
+{"dropout_rate": "30", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'C.D. Hylton High'"}
+{"dropout_rate": "49", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Forest Park High'"}
+{"dropout_rate": "83", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Freedom High'"}
+{"dropout_rate": "83", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Freedom High School'"}
+{"dropout_rate": "112", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Gar-Field High'"}
+{"dropout_rate": "39", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Osbourn Park High'"}
+{"dropout_rate": "10", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Parkside Middle'"}
+{"dropout_rate": "39", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Potomac High'"}
+{"dropout_rate": "72", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Stonewall Jackson High'"}
+{"dropout_rate": "69", "div_name": "'Prince William'", "per_capita": "192.16", "name": "'Woodbridge High'"}
+{"dropout_rate": "44", "div_name": "'Pulaski'", "per_capita": "141.34", "name": "'Pulaski County Senior High'"}
+{"dropout_rate": "44", "div_name": "'Pulaski'", "per_capita": "141.34", "name": "'Pulaski County Sr. High'"}
+{"dropout_rate": "134", "div_name": "'Richmond'", "per_capita": "120", "name": "'Armstrong High'"}
+{"dropout_rate": "134", "div_name": "'Richmond'", "per_capita": "148.24", "name": "'Armstrong High'"}
+{"dropout_rate": "134", "div_name": "'Richmond'", "per_capita": "120", "name": "'Armstrong High School'"}
+{"dropout_rate": "134", "div_name": "'Richmond'", "per_capita": "148.24", "name": "'Armstrong High School'"}
+{"dropout_rate": "93", "div_name": "'Richmond'", "per_capita": "120", "name": "'George Wythe High'"}
+{"dropout_rate": "93", "div_name": "'Richmond'", "per_capita": "148.24", "name": "'George Wythe High'"}
+{"dropout_rate": "71", "div_name": "'Richmond'", "per_capita": "120", "name": "'Huguenot High'"}
+{"dropout_rate": "71", "div_name": "'Richmond'", "per_capita": "148.24", "name": "'Huguenot High'"}
+{"dropout_rate": "117", "div_name": "'Richmond'", "per_capita": "120", "name": "'John Marshall High'"}
+{"dropout_rate": "117", "div_name": "'Richmond'", "per_capita": "148.24", "name": "'John Marshall High'"}
+{"dropout_rate": "12", "div_name": "'Richmond'", "per_capita": "120", "name": "'Rappahannock High'"}
+{"dropout_rate": "12", "div_name": "'Richmond'", "per_capita": "148.24", "name": "'Rappahannock High'"}
+{"dropout_rate": "12", "div_name": "'Richmond'", "per_capita": "120", "name": "'Rappahannock High School'"}
+{"dropout_rate": "12", "div_name": "'Richmond'", "per_capita": "148.24", "name": "'Rappahannock High School'"}
+{"dropout_rate": "23", "div_name": "'Richmond'", "per_capita": "120", "name": "'Richmond Alternative'"}
+{"dropout_rate": "23", "div_name": "'Richmond'", "per_capita": "148.24", "name": "'Richmond Alternative'"}
+{"dropout_rate": "23", "div_name": "'Richmond'", "per_capita": "120", "name": "'Richmond Alternative School'"}
+{"dropout_rate": "23", "div_name": "'Richmond'", "per_capita": "148.24", "name": "'Richmond Alternative School'"}
+{"dropout_rate": "45", "div_name": "'Richmond'", "per_capita": "120", "name": "'Thomas Jefferson High'"}
+{"dropout_rate": "45", "div_name": "'Richmond'", "per_capita": "148.24", "name": "'Thomas Jefferson High'"}
+{"dropout_rate": "11", "div_name": "'Roanoke'", "per_capita": "140.1", "name": "'Northside High'"}
+{"dropout_rate": "11", "div_name": "'Roanoke'", "per_capita": "143.52", "name": "'Northside High'"}
+{"dropout_rate": "65", "div_name": "'Roanoke'", "per_capita": "140.1", "name": "'Patrick Henry High'"}
+{"dropout_rate": "65", "div_name": "'Roanoke'", "per_capita": "143.52", "name": "'Patrick Henry High'"}
+{"dropout_rate": "14", "div_name": "'Roanoke'", "per_capita": "140.1", "name": "'William Byrd High'"}
+{"dropout_rate": "14", "div_name": "'Roanoke'", "per_capita": "143.52", "name": "'William Byrd High'"}
+{"dropout_rate": "75", "div_name": "'Roanoke'", "per_capita": "140.1", "name": "'William Fleming High'"}
+{"dropout_rate": "75", "div_name": "'Roanoke'", "per_capita": "143.52", "name": "'William Fleming High'"}
+{"dropout_rate": "29", "div_name": "'Rockbridge'", "per_capita": "141.5", "name": "'Rockbridge County High'"}
+{"dropout_rate": "26", "div_name": "'Rockingham'", "per_capita": "150.25", "name": "'Broadway High'"}
+{"dropout_rate": "11", "div_name": "'Rockingham'", "per_capita": "150.25", "name": "'East Rockingham High'"}
+{"dropout_rate": "14", "div_name": "'Rockingham'", "per_capita": "150.25", "name": "'Spotswood High'"}
+{"dropout_rate": "10", "div_name": "'Russell'", "per_capita": "166.47", "name": "'Honaker High'"}
+{"dropout_rate": "11", "div_name": "'Russell'", "per_capita": "166.47", "name": "'Lebanon High'"}
+{"dropout_rate": "22", "div_name": "'Salem'", "per_capita": "108.66", "name": "'Salem High'"}
+{"dropout_rate": "22", "div_name": "'Salem'", "per_capita": "108.66", "name": "'Salem High School'"}
+{"dropout_rate": "10", "div_name": "'Shenandoah'", "per_capita": "137.85", "name": "'Central High'"}
+{"dropout_rate": "10", "div_name": "'Shenandoah'", "per_capita": "137.85", "name": "'Strasburg High'"}
+{"dropout_rate": "15", "div_name": "'Smyth'", "per_capita": "119.31", "name": "'Marion Senior High'"}
+{"dropout_rate": "20", "div_name": "'Southampton'", "per_capita": "181.15", "name": "'Southampton High'"}
+{"dropout_rate": "36", "div_name": "'Spotsylvania'", "per_capita": "171.31", "name": "'Chancellor High'"}
+{"dropout_rate": "16", "div_name": "'Spotsylvania'", "per_capita": "171.31", "name": "'Courtland High'"}
+{"dropout_rate": "60", "div_name": "'Spotsylvania'", "per_capita": "171.31", "name": "'Massaponax High'"}
+{"dropout_rate": "27", "div_name": "'Spotsylvania'", "per_capita": "171.31", "name": "'Riverbend High'"}
+{"dropout_rate": "27", "div_name": "'Spotsylvania'", "per_capita": "171.31", "name": "'Riverbend High School'"}
+{"dropout_rate": "28", "div_name": "'Spotsylvania'", "per_capita": "171.31", "name": "'Spotsylvania High'"}
+{"dropout_rate": "15", "div_name": "'Stafford'", "per_capita": "170.85", "name": "'Brooke Point High'"}
+{"dropout_rate": "17", "div_name": "'Stafford'", "per_capita": "170.85", "name": "'Colonial Forge High'"}
+{"dropout_rate": "16", "div_name": "'Stafford'", "per_capita": "170.85", "name": "'North Stafford High'"}
+{"dropout_rate": "20", "div_name": "'Stafford'", "per_capita": "170.85", "name": "'Stafford Senior High'"}
+{"dropout_rate": "20", "div_name": "'Stafford'", "per_capita": "170.85", "name": "'Stafford Sr. High'"}
+{"dropout_rate": "25", "div_name": "'Staunton'", "per_capita": "80.72", "name": "'Robert E. Lee High'"}
+{"dropout_rate": "25", "div_name": "'Staunton'", "per_capita": "80.72", "name": "'Robert E. Lee High School'"}
+{"dropout_rate": "72", "div_name": "'Suffolk'", "per_capita": "157.7", "name": "'King`s Fork High'"}
+{"dropout_rate": "49", "div_name": "'Suffolk'", "per_capita": "157.7", "name": "'Lakeland High'"}
+{"dropout_rate": "25", "div_name": "'Suffolk'", "per_capita": "157.7", "name": "'Nansemond River High'"}
+{"dropout_rate": "24", "div_name": "'Sussex'", "per_capita": "277.74", "name": "'Sussex Central High'"}
+{"dropout_rate": "14", "div_name": "'Tazewell'", "per_capita": "110.19", "name": "'Graham High'"}
+{"dropout_rate": "29", "div_name": "'Tazewell'", "per_capita": "110.19", "name": "'Richlands High'"}
+{"dropout_rate": "38", "div_name": "'Tazewell'", "per_capita": "110.19", "name": "'Tazewell High'"}
+{"dropout_rate": "79", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'Bayside High'"}
+{"dropout_rate": "48", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'First Colonial High'"}
+{"dropout_rate": "11", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'Floyd Kellam High'"}
+{"dropout_rate": "36", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'Frank W. Cox High'"}
+{"dropout_rate": "50", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'Green Run High'"}
+{"dropout_rate": "42", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'Kempsville High'"}
+{"dropout_rate": "50", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'Landstown High'"}
+{"dropout_rate": "19", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'Ocean Lakes High'"}
+{"dropout_rate": "29", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'Princess Anne High'"}
+{"dropout_rate": "26", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'Salem High'"}
+{"dropout_rate": "44", "div_name": "'Virginia Beach'", "per_capita": "217.8", "name": "'Tallwood High'"}
+{"dropout_rate": "17", "div_name": "'Warren'", "per_capita": "151.89", "name": "'Skyline High'"}
+{"dropout_rate": "17", "div_name": "'Warren'", "per_capita": "151.89", "name": "'Skyline High School'"}
+{"dropout_rate": "17", "div_name": "'Waynesboro'", "per_capita": "219.86", "name": "'Waynesboro High'"}
+{"dropout_rate": "15", "div_name": "'Westmoreland'", "per_capita": "99.76", "name": "'Washington And Lee High'"}
+{"dropout_rate": "15", "div_name": "'Westmoreland'", "per_capita": "99.76", "name": "'Washington & Lee High'"}
+{"dropout_rate": "10", "div_name": "'Williamsburg'", "per_capita": "62.19", "name": "'Jamestown High'"}
+{"dropout_rate": "10", "div_name": "'Williamsburg'", "per_capita": "62.19", "name": "'Lafayette High'"}
+{"dropout_rate": "37", "div_name": "'Winchester'", "per_capita": "91.95", "name": "'John Handley High'"}
+{"dropout_rate": "10", "div_name": "'Wise'", "per_capita": "131.8", "name": "'Powell Valley High'"}
+{"dropout_rate": "10", "div_name": "'Wise'", "per_capita": "131.8", "name": "'Union High'"}
+{"dropout_rate": "20", "div_name": "'Wythe'", "per_capita": "129.54", "name": "'Fort Chiswell High'"}
+{"dropout_rate": "16", "div_name": "'Wythe'", "per_capita": "129.54", "name": "'George Wythe High'"}
+{"dropout_rate": "14", "div_name": "'Wythe'", "per_capita": "129.54", "name": "'Rural Retreat High'"}
+{"dropout_rate": "19", "div_name": "'York'", "per_capita": "193.2", "name": "'Bruton High'"}
+{"dropout_rate": "13", "div_name": "'York'", "per_capita": "193.2", "name": "'Grafton High'"}
+{"dropout_rate": "11", "div_name": "'York'", "per_capita": "193.2", "name": "'York High'"}

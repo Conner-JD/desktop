@@ -1,0 +1,86 @@
+-- Author : JC
+
+﻿DROP TABLE IF EXISTS School;
+DROP TABLE IF EXISTS Division;
+DROP TABLE IF EXISTS Test_Data;
+DROP TABLE IF EXISTS CTE;
+DROP TABLE IF EXISTS HS_Grads_Completer;
+DROP TABLE IF EXISTS Dropouts;
+
+ALTER TABLE Division OWNER TO valite;
+
+COMMENT ON TABLE Division IS 'all divisions in Virginia';
+
+CREATE TABLE Division (
+	num varchar(3) PRIMARY KEY,
+	name varchar(255) NOT NULL
+);
+
+ALTER TABLE School OWNER TO valite;
+
+COMMENT ON TABLE School IS 'all schools in Virginia';
+
+CREATE TABLE School (
+	num varchar(4) PRIMARY KEY,
+	name varchar(255) NOT NULL,
+	div_num varchar(3) NOT NULL REFERENCES Division(number)
+);
+
+ALTER TABLE Test_Data OWNER TO valite;
+
+COMMENT ON TABLE Test_Data IS 'test data for students in Virginia';
+
+CREATE TABLE Test_Data (
+	school_num varchar(4) REFERENCES School(number),
+	div_num varchar(3) REFERENCES Division(number),
+	year varchar(9) NOT NULL,
+	subject varchar(5) NOT NULL,
+	test varchar(20),
+	test_level varchar(3),
+	avg_sol_scaled_score number(3),
+	pass_adv_rate number(5,2),
+	pass_prof_rate number(5,2),
+	pass_rate number(5,2),
+	fail_rate number(5,2),
+	PRIMARY KEY (subject, test, test_level, div_num, school_num, year)
+);
+
+ALTER TABLE CTE OWNER TO valite;
+
+COMMENT ON TABLE CTE IS 'Career and Technical Education data on high school students in Virginia';
+
+CREATE TABLE CTE (
+	school_num varchar(4) REFERENCES School(number),
+	div_num varchar(3) REFERENCES Division(number),
+	year varchar(9) NOT NULL,
+	num number(4),
+	name varchar(250),
+	completer_cnt number(9),
+	PRIMARY KEY (number, name, div_num, school_num, year)
+);
+
+ALTER TABLE HS_Grads_Completer OWNER TO valite;
+
+COMMENT ON TABLE HS_Grads_Completer IS 'all annual highschool graduates data in Virginia';
+
+CREATE TABLE HS_Grads_Completer (
+	school_num varchar(4) REFERENCES School(number),
+	div_num varchar(3) REFERENCES Division(number),
+	year varchar(9) NOT NULL,
+	num number(2),
+	name varchar(20),
+	completer_cnt number(9) NOT NULL,
+	PRIMARY KEY (number, name, div_num, school_num, year)
+);
+
+ALTER TABLE Dropouts OWNER TO valite;
+
+COMMENT ON TABLE Dropouts IS 'all annual highschool dropouts data in Virginia';
+
+CREATE TABLE Dropouts (
+	school_num varchar(4) REFERENCES School(number),
+	div_num varchar(3) REFERENCES Division(number),
+	year varchar(9) NOT NULL,
+	rate number(5,2) NOT NULL,
+	PRIMARY KEY (div_num, school_num, year)
+);

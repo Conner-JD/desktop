@@ -1,0 +1,378 @@
+'div_name','name','dropout_rate','per_capita'
+'Accomack','Arcadia High',17,146.09
+'Accomack','Nandua High',29,146.09
+'Albemarle','Albemarle High',21,141.09
+'Albemarle','Monticello High',20,141.09
+'Alexandria','T. C. Williams High',91,118.18
+'Alexandria','T.C. Williams High',91,118.18
+'Alleghany','Alleghany High',15,204
+'Alleghany','Alleghany High School',15,204
+'Amherst','Amherst County High',25,155.85
+'Appomattox','Appomattox County High',17,153.52
+'Arlington','Wakefield High',111,147.26
+'Arlington','Washington Lee High',68,147.26
+'Arlington','Washington-Lee High',68,147.26
+'Arlington','Yorktown High',25,147.26
+'Augusta','Buffalo Gap High',11,130.51
+'Augusta','Fort Defiance High',15,130.51
+'Augusta','Ft. Defiance High',15,130.51
+'Augusta','Stuarts Draft High',10,130.51
+'Augusta','Wilson Memorial High',10,130.51
+'Bedford','Jefferson Forest High',13,146.83
+'Bedford','Liberty High',26,146.83
+'Bedford','Staunton River High',27,146.83
+'Bristol','Virginia High',17,110.94
+'Brunswick','Brunswick High',37,148.1
+'Buckingham','Buckingham County High',19,113.36
+'Campbell','Brookville High',16,144.65
+'Campbell','Rustburg High',26,144.65
+'Caroline','Caroline High',36,118.7
+'Carroll','Carroll County High',24,129.9
+'Carroll','Carroll County High School',24,129.9
+'Charlotte','Charlottesville High',55,157.17
+'Charlottesville','Charlottesville High',55,245.28
+'Chesapeake','Deep Creek High',32,184.86
+'Chesapeake','Grassfield High',14,184.86
+'Chesapeake','Grassfield High School',14,184.86
+'Chesapeake','Great Bridge High',19,184.86
+'Chesapeake','Indian River High',41,184.86
+'Chesapeake','Oscar F. Smith High',78,184.86
+'Chesapeake','Western Branch High',30,184.86
+'Chesterfield','Chesterfield Community High',75,162.54
+'Chesterfield','Clover Hill High',24,162.54
+'Chesterfield','James River High',26,162.54
+'Chesterfield','Lloyd C. Bird High',53,162.54
+'Chesterfield','Manchester High',38,162.54
+'Chesterfield','Matoaca High',28,162.54
+'Chesterfield','Meadowbrook High',67,162.54
+'Chesterfield','Monacan High',21,162.54
+'Chesterfield','Thomas Dale High',40,162.54
+'Culpeper','Culpeper County High',34,149.35
+'Culpeper','Eastern View High',22,149.35
+'Culpeper','Eastern View High School',22,149.35
+'Danville','George Washington High',45,222.77
+'Danville','JM Langston Focus School',18,222.77
+'Danville','Langston Focus Center',18,222.77
+'Danville','Langston Focus School',18,222.77
+'Dinwiddie','Dinwiddie County High',29,190.34
+'Dinwiddie','Dinwiddie Senior High',29,190.34
+'Essex','Essex High',16,97.68
+'Fairfax','Annandale High',79,151.95
+'Fairfax','Annandale High',79,168.38
+'Fairfax','Annandale High School',79,151.95
+'Fairfax','Annandale High School',79,168.38
+'Fairfax','Bryant Alternative High',118,151.95
+'Fairfax','Bryant Alternative High',118,168.38
+'Fairfax','Bryant Alternative High School',118,151.95
+'Fairfax','Bryant Alternative High School',118,168.38
+'Fairfax','Centreville High',16,151.95
+'Fairfax','Centreville High',16,168.38
+'Fairfax','Centreville High School',16,151.95
+'Fairfax','Centreville High School',16,168.38
+'Fairfax','Chantilly High',21,151.95
+'Fairfax','Chantilly High',21,168.38
+'Fairfax','Chantilly High School',21,151.95
+'Fairfax','Chantilly High School',21,168.38
+'Fairfax','DJJ or Fairfax/Falls Church Community SVCS BD Schools',13,151.95
+'Fairfax','DJJ or Fairfax/Falls Church Community SVCS BD Schools',13,168.38
+'Fairfax','Edison High',20,151.95
+'Fairfax','Edison High',20,168.38
+'Fairfax','Fairfax High',21,151.95
+'Fairfax','Fairfax High',21,168.38
+'Fairfax','Fairfax High School',21,151.95
+'Fairfax','Fairfax High School',21,168.38
+'Fairfax','Falls Church High',46,151.95
+'Fairfax','Falls Church High',46,168.38
+'Fairfax','Falls Church High School',46,151.95
+'Fairfax','Falls Church High School',46,168.38
+'Fairfax','George C. Marshall High School',14,151.95
+'Fairfax','George C. Marshall High School',14,168.38
+'Fairfax','Hayfield Secondary',31,151.95
+'Fairfax','Hayfield Secondary',31,168.38
+'Fairfax','Hayfield Secondary School',31,151.95
+'Fairfax','Hayfield Secondary School',31,168.38
+'Fairfax','Herndon High',33,151.95
+'Fairfax','Herndon High',33,168.38
+'Fairfax','Herndon High School',33,151.95
+'Fairfax','Herndon High School',33,168.38
+'Fairfax','James W. Robinson Jr. Secondary School',15,151.95
+'Fairfax','James W. Robinson Jr. Secondary School',15,168.38
+'Fairfax','J.E.B. Stuart High School',69,151.95
+'Fairfax','J.E.B. Stuart High School',69,168.38
+'Fairfax','Lake Braddock Secondary',20,151.95
+'Fairfax','Lake Braddock Secondary',20,168.38
+'Fairfax','Lake Braddock Secondary School',20,151.95
+'Fairfax','Lake Braddock Secondary School',20,168.38
+'Fairfax','Lee High',43,151.95
+'Fairfax','Lee High',43,168.38
+'Fairfax','Marshall High',14,151.95
+'Fairfax','Marshall High',14,168.38
+'Fairfax','Mclean High',19,151.95
+'Fairfax','Mclean High',19,168.38
+'Fairfax','McLean High',19,151.95
+'Fairfax','McLean High',19,168.38
+'Fairfax','McLean High School',19,151.95
+'Fairfax','McLean High School',19,168.38
+'Fairfax','Mountain View Alternative High',49,151.95
+'Fairfax','Mountain View Alternative High',49,168.38
+'Fairfax','Mountain View Alternative High School',49,151.95
+'Fairfax','Mountain View Alternative High School',49,168.38
+'Fairfax','Mountain View School',49,151.95
+'Fairfax','Mountain View School',49,168.38
+'Fairfax','Mount Vernon High',39,151.95
+'Fairfax','Mount Vernon High',39,168.38
+'Fairfax','Mount Vernon High School',39,151.95
+'Fairfax','Mount Vernon High School',39,168.38
+'Fairfax','Robert E. Lee High School',43,151.95
+'Fairfax','Robert E. Lee High School',43,168.38
+'Fairfax','Robinson Secondary',15,151.95
+'Fairfax','Robinson Secondary',15,168.38
+'Fairfax','South County Secondary',17,151.95
+'Fairfax','South County Secondary',17,168.38
+'Fairfax','South County Secondary School',17,151.95
+'Fairfax','South County Secondary School',17,168.38
+'Fairfax','South Lakes High',17,151.95
+'Fairfax','South Lakes High',17,168.38
+'Fairfax','South Lakes High School',17,151.95
+'Fairfax','South Lakes High School',17,168.38
+'Fairfax','Stuart High',69,151.95
+'Fairfax','Stuart High',69,168.38
+'Fairfax','Thomas A. Edison High School',20,151.95
+'Fairfax','Thomas A. Edison High School',20,168.38
+'Fairfax','Westfield High',26,151.95
+'Fairfax','Westfield High',26,168.38
+'Fairfax','Westfield High School',26,151.95
+'Fairfax','Westfield High School',26,168.38
+'Fairfax','West Potomac High',62,151.95
+'Fairfax','West Potomac High',62,168.38
+'Fairfax','West Potomac High School',62,151.95
+'Fairfax','West Potomac High School',62,168.38
+'Fairfax','West Springfield High',15,151.95
+'Fairfax','West Springfield High',15,168.38
+'Fairfax','West Springfield High School',15,151.95
+'Fairfax','West Springfield High School',15,168.38
+'Fairfax','Woodson Adult High',227,151.95
+'Fairfax','Woodson Adult High',227,168.38
+'Fairfax','Woodson Adult High School',227,151.95
+'Fairfax','Woodson Adult High School',227,168.38
+'Fairfax','Woodson High',19,151.95
+'Fairfax','Woodson High',19,168.38
+'Fairfax','W.T. Woodson High School',19,151.95
+'Fairfax','W.T. Woodson High School',19,168.38
+'Fauquier','Fauquier High',17,174.51
+'Fauquier','Liberty High',13,174.51
+'Floyd','Floyd County High',16,137.91
+'Fluvanna','Fluvanna County High',19,130.25
+'Franklin','Franklin County High',55,130.12
+'Franklin','Franklin County High',55,160.16
+'Franklin','Franklin High',11,130.12
+'Franklin','Franklin High',11,160.16
+'Frederick','James Monroe High',14,154.9
+'Frederick','James Wood High',31,154.9
+'Frederick','Millbrook High',29,154.9
+'Frederick','Sherando High',36,154.9
+'Fredericksburg','James Monroe High',14,150.96
+'Giles','Giles High',21,132.49
+'Giles','Narrows High',10,132.49
+'Gloucester','Gloucester High',45,168.7
+'Goochland','Goochland High',13,103.93
+'Grayson','Grayson County High',16,191.13
+'Greene','William Monroe High',26,119.44
+'Greensville','Greensville County High',46,115.73
+'Halifax','Halifax County High',47,163.91
+'Hampton','Bethel High',23,157.2
+'Hampton','Hampton High',32,157.2
+'Hampton','Kecoughtan High',29,157.2
+'Hampton','Phoebus High',26,157.2
+'Hanover','Lee Davis High',14,145.86
+'Hanover','Patrick Henry High',17,145.86
+'Harrisonburg','Harrisonburg High',36,101.94
+'Henrico','Douglas S. Freeman High',39,136.01
+'Henrico','Freeman High',39,136.01
+'Henrico','Godwin High',14,136.01
+'Henrico','Henrico High',96,136.01
+'Henrico','Hermitage High',77,136.01
+'Henrico','Highland Springs High',88,136.01
+'Henrico','John Randolphtucker High',67,136.01
+'Henrico','John Randolph Tucker High',67,136.01
+'Henrico','John RandolphTucker High',67,136.01
+'Henrico','Mills E. Godwin High',14,136.01
+'Henrico','Tucker High',67,136.01
+'Henrico','Varina High',52,136.01
+'Henry','Bassett High',19,149.7
+'Henry','Magna Vista High',25,149.7
+'Hopewell','Hopewell High',42,176.86
+'Isle of Wight','Smithfield High',31,158.99
+'Isle of Wight','Windsor High',12,158.99
+'King and Queen','Central High',13,134.24
+'King George','King George High',23,149.93
+'Lee','Lee High',11,146.15
+'Loudoun','Dominion High',16,196.25
+'Loudoun','Heritage High',10,196.25
+'Loudoun','Park View High',26,196.25
+'Loudoun','Stone Bridge High',10,196.25
+'Loudoun','Tuscarora High',10,196.25
+'Louisa','Louisa County High',27,117.57
+'Lynchburg','E. C. Glass High',35,126.48
+'Lynchburg','E.C. Glass High',35,126.48
+'Lynchburg','Heritage High',35,126.48
+'Madison','Madison County High',12,158.78
+'Manassas','Osbourn High',65,189.72
+'Martinsville','Martinsville High',19,168.45
+'Martinsville','Martinsville High School',19,168.45
+'Mecklenburg','Park View High',12,106.06
+'Montgomery','Auburn High',13,142.33
+'Montgomery','Blacksburg High',14,142.33
+'Montgomery','Christiansburg High',29,142.33
+'Montgomery','Eastern Montgomery High',10,142.33
+'New Kent','New Kent County High',13,144.46
+'New Kent','New Kent High',13,144.46
+'Newport News','Crittenden Middle',10,173.36
+'Newport News','Denbigh High',64,173.36
+'Newport News','Ethel M. Gildersleeve Middle',10,173.36
+'Newport News','Heritage High',57,173.36
+'Newport News','Homer L. Hines Middle',13,173.36
+'Newport News','Huntington Middle',12,173.36
+'Newport News','J. M. Dozier Middle',17,173.36
+'Newport News','J.M. Dozier Middle',17,173.36
+'Newport News','Mary Passage Middle',14,173.36
+'Newport News','Menchville High',69,173.36
+'Newport News','Warwick High',123,173.36
+'Newport News','Woodside High',33,173.36
+'Norfolk','B. T. Washington High',85,145.08
+'Norfolk','B.T. Washington High',85,145.08
+'Norfolk','Granby High',168,145.08
+'Norfolk','Lake Taylor High',55,145.08
+'Norfolk','Lake Taylor High School',55,145.08
+'Norfolk','Matthew Fontaine Maury High',38,145.08
+'Norfolk','Maury High',38,145.08
+'Norfolk','Norview High',43,145.08
+'Northampton','Northampton High',27,188.37
+'Northumberland','Northumberland High',13,117.98
+'Nottoway','Nottoway High',24,144.78
+'Orange','Orange Co. High',12,133.68
+'Orange','Orange County High',12,133.68
+'Page','Luray High',10,147.94
+'Page','Luray High School',10,147.94
+'Petersburg','Petersburg High',40,163.23
+'Petersburg','Vernon Johns Junior High',35,163.23
+'Pittsylvania','Chatham High',17,108.79
+'Pittsylvania','Dan River High',20,108.79
+'Pittsylvania','Dan River Senior High',20,108.79
+'Pittsylvania','Dan River Sr. High',20,108.79
+'Pittsylvania','Gretna High',42,108.79
+'Pittsylvania','Gretna Senior High',42,108.79
+'Pittsylvania','Gretna Sr. High',42,108.79
+'Pittsylvania','Tunstall High',40,108.79
+'Pittsylvania','Tunstall Senior High',40,108.79
+'Pittsylvania','Tunstall Sr. High',40,108.79
+'Portsmouth','Churchland High',41,157.77
+'Portsmouth','I. C. Norcom High',93,157.77
+'Portsmouth','I.C. Norcom High',93,157.77
+'Portsmouth','Woodrow Wilson High',71,157.77
+'Powhatan','Powhatan High',20,143.6
+'Prince Edward','Prince Edward County High',44,85.26
+'Prince George','Prince George High',50,150.15
+'Prince William','Battlefield High',34,192.16
+'Prince William','Battlefield High School',34,192.16
+'Prince William','Brentsville District High',27,192.16
+'Prince William','C. D. Hylton High',30,192.16
+'Prince William','C.D. Hylton High',30,192.16
+'Prince William','Forest Park High',49,192.16
+'Prince William','Freedom High',83,192.16
+'Prince William','Freedom High School',83,192.16
+'Prince William','Gar-Field High',112,192.16
+'Prince William','Osbourn Park High',39,192.16
+'Prince William','Parkside Middle',10,192.16
+'Prince William','Potomac High',39,192.16
+'Prince William','Stonewall Jackson High',72,192.16
+'Prince William','Woodbridge High',69,192.16
+'Pulaski','Pulaski County Senior High',44,141.34
+'Pulaski','Pulaski County Sr. High',44,141.34
+'Richmond','Armstrong High',134,120
+'Richmond','Armstrong High',134,148.24
+'Richmond','Armstrong High School',134,120
+'Richmond','Armstrong High School',134,148.24
+'Richmond','George Wythe High',93,120
+'Richmond','George Wythe High',93,148.24
+'Richmond','Huguenot High',71,120
+'Richmond','Huguenot High',71,148.24
+'Richmond','John Marshall High',117,120
+'Richmond','John Marshall High',117,148.24
+'Richmond','Rappahannock High',12,120
+'Richmond','Rappahannock High',12,148.24
+'Richmond','Rappahannock High School',12,120
+'Richmond','Rappahannock High School',12,148.24
+'Richmond','Richmond Alternative',23,120
+'Richmond','Richmond Alternative',23,148.24
+'Richmond','Richmond Alternative School',23,120
+'Richmond','Richmond Alternative School',23,148.24
+'Richmond','Thomas Jefferson High',45,120
+'Richmond','Thomas Jefferson High',45,148.24
+'Roanoke','Northside High',11,140.1
+'Roanoke','Northside High',11,143.52
+'Roanoke','Patrick Henry High',65,140.1
+'Roanoke','Patrick Henry High',65,143.52
+'Roanoke','William Byrd High',14,140.1
+'Roanoke','William Byrd High',14,143.52
+'Roanoke','William Fleming High',75,140.1
+'Roanoke','William Fleming High',75,143.52
+'Rockbridge','Rockbridge County High',29,141.5
+'Rockingham','Broadway High',26,150.25
+'Rockingham','East Rockingham High',11,150.25
+'Rockingham','Spotswood High',14,150.25
+'Russell','Honaker High',10,166.47
+'Russell','Lebanon High',11,166.47
+'Salem','Salem High',22,108.66
+'Salem','Salem High School',22,108.66
+'Shenandoah','Central High',10,137.85
+'Shenandoah','Strasburg High',10,137.85
+'Smyth','Marion Senior High',15,119.31
+'Southampton','Southampton High',20,181.15
+'Spotsylvania','Chancellor High',36,171.31
+'Spotsylvania','Courtland High',16,171.31
+'Spotsylvania','Massaponax High',60,171.31
+'Spotsylvania','Riverbend High',27,171.31
+'Spotsylvania','Riverbend High School',27,171.31
+'Spotsylvania','Spotsylvania High',28,171.31
+'Stafford','Brooke Point High',15,170.85
+'Stafford','Colonial Forge High',17,170.85
+'Stafford','North Stafford High',16,170.85
+'Stafford','Stafford Senior High',20,170.85
+'Stafford','Stafford Sr. High',20,170.85
+'Staunton','Robert E. Lee High',25,80.72
+'Staunton','Robert E. Lee High School',25,80.72
+'Suffolk','King`s Fork High',72,157.7
+'Suffolk','Lakeland High',49,157.7
+'Suffolk','Nansemond River High',25,157.7
+'Sussex','Sussex Central High',24,277.74
+'Tazewell','Graham High',14,110.19
+'Tazewell','Richlands High',29,110.19
+'Tazewell','Tazewell High',38,110.19
+'Virginia Beach','Bayside High',79,217.8
+'Virginia Beach','First Colonial High',48,217.8
+'Virginia Beach','Floyd Kellam High',11,217.8
+'Virginia Beach','Frank W. Cox High',36,217.8
+'Virginia Beach','Green Run High',50,217.8
+'Virginia Beach','Kempsville High',42,217.8
+'Virginia Beach','Landstown High',50,217.8
+'Virginia Beach','Ocean Lakes High',19,217.8
+'Virginia Beach','Princess Anne High',29,217.8
+'Virginia Beach','Salem High',26,217.8
+'Virginia Beach','Tallwood High',44,217.8
+'Warren','Skyline High',17,151.89
+'Warren','Skyline High School',17,151.89
+'Waynesboro','Waynesboro High',17,219.86
+'Westmoreland','Washington And Lee High',15,99.76
+'Westmoreland','Washington & Lee High',15,99.76
+'Williamsburg','Jamestown High',10,62.19
+'Williamsburg','Lafayette High',10,62.19
+'Winchester','John Handley High',37,91.95
+'Wise','Powell Valley High',10,131.8
+'Wise','Union High',10,131.8
+'Wythe','Fort Chiswell High',20,129.54
+'Wythe','George Wythe High',16,129.54
+'Wythe','Rural Retreat High',14,129.54
+'York','Bruton High',19,193.2
+'York','Grafton High',13,193.2
+'York','York High',11,193.2

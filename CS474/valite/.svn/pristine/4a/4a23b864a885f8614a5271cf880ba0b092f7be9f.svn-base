@@ -1,0 +1,36 @@
+#!/bin/sh
+# Run this script directly on the db server.
+#SCHOOLS-- some schools come up twice(slightly differing names)
+SELECT sch_num, sch_name, div_num
+FROM fall_membership
+WHERE sch_num IS NOT NULL AND sch_num IS NO NULL
+GROUP BY sch_num, sch_name, div_num
+ORDER BY div_num, sch_num, sch_name;
+
+#CTE query
+SELECT sch_num AS school_num, div_num, school_year AS year, cte_program_num AS num, cte_program_name AS name, max(completer_cnt)
+FROM cte_completer
+GROUP BY div_num, school_num, year, num, name
+ORDER BY div_num, school_num, year, num, name;
+
+#sol_test query
+SELECT sch_num, div_num, school_year, subject, test, test_level, avg_sol_scale_score, pass_advanced_rate, pass_prof_rate, pass_rate, fail_rate
+FROM sol_test_data
+WHERE federal_race_code IS NULL AND GENDER IS NULL AND disability_flag IS NULL AND lep_flag is NULL AND disadvantaged_flag IS NULL
+ORDER BY div_num, sch_num, school_year, subject, test, test_level;
+
+echo COPY division FROM vlds - DONE
+psql -c "COPY (
+    SELECT DISTINCT div_num AS num, div_name AS name
+    FROM fall_membership
+  ) TO STDOUT;" vlds | \
+  psql -c "COPY division FROM STDIN;" valite
+
+echo COPY school FROM vlds - NOT DONE
+psql -c "COPY (
+    SELECT DISTINCT sch_num AS num, sch_name AS name, div_num
+    FROM fall_membership
+  ) TO STDOUT;" vlds | \
+  psql -c "COPY school FROM STDIN;" valite
+
+#psql -h db.cs.jmu.edu valite < create.sql

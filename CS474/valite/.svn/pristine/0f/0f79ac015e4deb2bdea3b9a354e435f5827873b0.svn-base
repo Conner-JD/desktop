@@ -1,0 +1,42 @@
+WITH drops AS (
+	SELECT *
+	FROM dropouts AS d
+	JOIN division AS di ON d.div_num = di.num
+)
+SELECT *
+FROM education_expenditures AS ee
+JOIN drops AS dr ON dr.name LIKE ee.div_name||'%'
+WHERE ee.year = dr.year;
+
+--------------------------------------
+
+
+WITH named_test_data AS (
+	SELECT di.name, sc.name AS sch_name, sc.num, di.num, td.year, td.subject, td.test, td.test_level, td.pass_rate, td.fail_rate
+	FROM test_data AS td
+	JOIN division AS di ON td.div_num = di.num
+	JOIN school AS sc ON td.sch_num = sc.num AND sc.div_num = td.div_num
+)
+SELECT *
+FROM named_test_data AS ntd
+LIMIT 100;
+
+-------------------------------------
+
+WITH sample AS (
+	WITH drops AS (
+		SELECT *
+		FROM dropouts AS d
+		JOIN division AS di ON d.div_num = di.num
+	)
+	SELECT *
+	FROM education_expenditures AS ee
+	JOIN drops AS dr ON dr.name LIKE ee.div_name||'%'
+	WHERE ee.year = dr.year
+)
+
+SELECT DISTINCT sample.div_name, school.name, dropout_rate, per_capita
+FROM sample
+	JOIN school ON school.num = sample.sch_num AND sample.div_num = school.div_num
+WHERE grade_code IS NULL AND type = 'Operation' AND per_capita != -1
+ORDER BY div_name;

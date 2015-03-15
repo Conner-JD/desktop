@@ -1,0 +1,19 @@
+#!/bin/sh
+# Run this script directly on the db server.
+
+
+echo COPY division FROM vlds - DONE
+psql -c "COPY (
+    SELECT DISTINCT div_num AS num, div_name AS name
+    FROM fall_membership
+  ) TO STDOUT;" vlds | \
+  psql -c "COPY division FROM STDIN;" valite
+
+echo COPY school FROM vlds - NOT DONE
+psql -c "COPY (
+    SELECT DISTINCT sch_num AS num, sch_name AS name, div_num
+    FROM fall_membership
+  ) TO STDOUT;" vlds | \
+  psql -c "COPY school FROM STDIN;" valite
+
+#psql -h db.cs.jmu.edu valite < create.sql

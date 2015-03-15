@@ -1,0 +1,18 @@
+#!/bin/sh
+# Run this script directly on the db server.
+
+
+echo COPY division FROM vlds
+psql -c "COPY (
+    SELECT div_num AS num, div_name AS name
+    FROM fall_membership
+  ) TO STDOUT;" vlds | \
+  psql -c "COPY division FROM STDIN;" absent
+
+echo COPY school FROM vlds
+psql -c "COPY (
+    SELECT div_num, sch_num AS num, sch_name AS name
+    FROM fall_membership
+  ) TO STDOUT;" vlds | \
+  psql -c "COPY school FROM STDIN;" absent
+

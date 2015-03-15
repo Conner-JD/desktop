@@ -1,0 +1,88 @@
+Fall Membership
+	-School Year
+	-School Div #
+	-School Div Name
+	-School Name
+	-School #
+	-Fall Membership count
+
+Test Data
+	-School Year
+	-School Div #
+	-School Div Name
+	-School Name
+	-School #
+	-Subject
+	-Test
+	-Test Level
+	-Average SOL Scaled Score
+	-Pass Advanced Rate
+	-Pass Proficient Rate
+	-Pass Rate
+	-Fail Rate
+	
+CTE
+	-School Year
+	-School Div #
+	-School Div Name
+	-School Name
+	-School #
+	-CTE Program Number
+	-CTE Program Name
+	-CTE Completer count
+
+
+Annual high school graduates and completers
+	-School Year
+	-School Div #
+	-School Div Name
+	-School Name
+	-School #
+	-HS completeion number
+	-HS completere name
+	-HS completer count
+
+Annual Dropouts
+	-School Year
+	-School Div #
+	-School Div Name
+	-School Name
+	-School #
+	-Dropout Rate
+
+
+
+On-time Graduation Rate and Cohort Dropout Rate
+	-School Year
+	-School Div #
+	-School Div Name
+	-School Name
+	-School #
+	-Cohort Count
+	-Diploma Rate
+	-Dropout Rate
+
+Postsecondary Enrollment
+	-School Year
+	-School Div #
+	-School Div Name
+	-School Name
+	-School #
+	-Cohort Graduate Count
+	-Postsecondary Institution Type
+	-Postsecondary Enrollment Count
+
+Postsecondary Acheivement
+	-School Year
+	-School Div #
+	-School Div Name
+	-School Name
+	-School #
+	-Cohort Count?
+	-Diploma Rate
+	-Dropout Rate
+	-Cohort Graduate Count
+	-Postsecondary Credit Count - including dual enrollment
+	-Postsecondary Uknown Credit Count - including dual enrollment
+	-Postsecondary Unknown Credit Count - excluding dual enrollment
+	-Postsecondary Credit Count - excluding dual enrollment

@@ -1,0 +1,21 @@
+ALTER TABLE division ADD PRIMARY KEY (div_num);
+
+ALTER TABLE school ADD PRIMARY KEY (div_num, sch_num);
+ALTER TABLE school ADD FOREIGN KEY (div_num) REFERENCES division;
+
+-- for GP2, don't create primary/foreign keys for VLDS data sets
+
+ALTER TABLE college ADD PRIMARY KEY (unitid);
+
+
+SELECT count(*) AS div_cnt FROM division;
+ANALYZE VERBOSE division;
+
+SELECT count(*) AS sch_cnt FROM school;
+ANALYZE VERBOSE school;
+
+SELECT count(*) AS enr_cnt FROM enroll;
+ANALYZE VERBOSE enroll;
+
+SELECT count(*) AS col_cnt FROM college;
+ANALYZE VERBOSE college;

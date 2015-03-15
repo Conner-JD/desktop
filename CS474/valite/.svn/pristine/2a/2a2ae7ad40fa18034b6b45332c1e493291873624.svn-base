@@ -1,0 +1,29 @@
+ALTER TABLE division ADD PRIMARY KEY (num, name);
+ALTER TABLE division ADD FOREIGN KEY (num) REFERENCES school(div_num) DEFERABLE INITIALLY DEFERRED;
+
+ALTER TABLE school ADD PRIMARY KEY (num, name, div_num);
+ALTER TABLE school ADD FOREIGN KEY (div_num) REFERENCES division(num);
+
+ALTER TABLE school ADD PRIMARY KEY (num, name, div_num);
+ALTER TABLE school ADD FOREIGN KEY (div_num) REFERENCES division(num);
+
+ALTER TABLE school ADD PRIMARY KEY (num, name, div_num);
+ALTER TABLE school ADD FOREIGN KEY (div_num) REFERENCES division(num);
+
+ALTER TABLE school ADD PRIMARY KEY (num, name, div_num);
+ALTER TABLE school ADD FOREIGN KEY (div_num) REFERENCES division(num);
+
+ALTER TABLE school ADD PRIMARY KEY (num, name, div_num);
+ALTER TABLE school ADD FOREIGN KEY (div_num) REFERENCES division(num);
+
+ALTER TABLE school ADD PRIMARY KEY (num, name, div_num);
+ALTER TABLE school ADD FOREIGN KEY (div_num) REFERENCES division(num);
+
+-- for GP2, don't create primary/foreign keys for VLDS data sets
+
+SELECT count(*) AS div_cnt FROM division;
+ANALYZE VERBOSE division;
+
+SELECT count(*) AS sch_cnt FROM school;
+ANALYZE VERBOSE school;
+
